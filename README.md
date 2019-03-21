@@ -1,1 +1,2 @@
-# 1-timestamp-project
+# boilerplate-project-timestamp
+A boilerplate for a freeCodeCamp project.
